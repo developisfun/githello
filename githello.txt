@@ -1,4 +1,3 @@
 HelloGitHub!
-
-
-newstring
+remote edited string
+new(middle edited string)string
